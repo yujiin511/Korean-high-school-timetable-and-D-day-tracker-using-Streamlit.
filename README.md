@@ -1,2 +1,14 @@
-# Korean-high-school-timetable-and-D-day-tracker-using-Streamlit.
-시간표 + D-day 관리 앱
+# 시간표 & D‑Day 관리 웹앱
+
+한국 학생들을 위한 간단한 시간표 및 디데이 관리 웹앱입니다.  
+Streamlit + Hugging Face Spaces 기반으로 구성되었습니다.
+
+## 기능
+- 요일별 교시 시간표 입력
+- 수능, 기말고사 등 D‑Day 추가
+- 시간표와 D‑Day 실시간 확인
+
+## 사용 방법
+1. 웹에 접속해서 시간표와 날짜 입력
+2. 저장 버튼 없이 즉시 반영됨
+3. 추가한 D‑Day는 페이지 내에서 표시
